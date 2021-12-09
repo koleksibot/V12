@@ -1,0 +1,24 @@
+{
+    "ownerNumber": "6285705980176@s.whatsapp.net",
+    "ownerName": "SkyclopsZ",
+    "limitCount":15,
+    "gamewaktu": 60,
+    "botName": "SKY BOTZ",
+    "pathImg": "./media/Itsuki.jpg",
+    "apikey": "YOUR_APIKEY",
+    "fake": "SKY-BOTZ VERIFIED",
+    "sesidInsta": "default",
+    "sessionName": "SkyclopsZ",
+    "txtDonasi": "DANA : 085705980176\nTrakteer : Gk punya bang\nSaweeria : Gk punya bang\nPulsa : 085705980176",
+    "gcount": {
+        "prem": 40,
+        "user": 20
+    },
+    "emote":{
+        "free": "◽",
+        "owner": "◾",
+        "limit": "🔸",
+        "glimit": "🔹",
+        "prem": "💰"
+    }
+}
